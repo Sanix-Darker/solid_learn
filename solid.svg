@@ -1,0 +1,844 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="w-screen h-screen leading-none markmap mm-8yz4uo-1" style=""><style>.markmap{--markmap-max-width: none;--markmap-a-color: #0097e6;--markmap-a-hover-color: #00a8ff;--markmap-code-bg: #f0f0f0;--markmap-code-color: #555;--markmap-highlight-bg: #ffeaa7;--markmap-table-border: 1px solid currentColor;--markmap-font: 300 16px/20px sans-serif;--markmap-circle-open-bg: #fff;--markmap-text-color: #333;font:var(--markmap-font);color:var(--markmap-text-color)}.markmap-link{fill:none}.markmap-node&gt;circle{cursor:pointer}.markmap-foreign{display:inline-block}.markmap-foreign p{margin:0}.markmap-foreign a{color:var(--markmap-a-color)}.markmap-foreign a:hover{color:var(--markmap-a-hover-color)}.markmap-foreign code{padding:.25em;font-size:calc(1em - 2px);color:var(--markmap-code-color);background-color:var(--markmap-code-bg);border-radius:2px}.markmap-foreign pre{margin:0}.markmap-foreign pre&gt;code{display:block}.markmap-foreign del{text-decoration:line-through}.markmap-foreign em{font-style:italic}.markmap-foreign strong{font-weight:700}.markmap-foreign mark{background:var(--markmap-highlight-bg)}.markmap-foreign table,.markmap-foreign th,.markmap-foreign td{border-collapse:collapse;border:var(--markmap-table-border)}.markmap-foreign img{display:inline-block}.markmap-foreign svg{fill:currentColor}.markmap-foreign-testing-max{max-width:var(--markmap-max-width)}.markmap-foreign-testing-max img{max-width:var(--markmap-max-width);max-height:none}.markmap-dark .markmap{--markmap-code-bg: #1a1b26;--markmap-code-color: #ddd;--markmap-circle-open-bg: #444;--markmap-text-color: #eee}</style><style class="darkreader darkreader--sync" media="screen"></style><g transform="translate(179.1459785522788,466.31152815013405) scale(0.4655764075067024)"><path class="markmap-link" data-depth="2" data-path="1.2" d="M427,10C467,10,467,-9188.875,507,-9188.875" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="2" data-path="1.10" d="M427,10C467,10,467,-7730.125,507,-7730.125" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="2" data-path="1.26" d="M427,10C467,10,467,-6123.875,507,-6123.875" stroke="rgb(214, 39, 40)" stroke-width="1.5" style="--darkreader-inline-stroke: #dc3e3f;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="2" data-path="1.38" d="M427,10C467,10,467,-3775.125,507,-3775.125" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="2" data-path="1.54" d="M427,10C467,10,467,1045.875,507,1045.875" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="2" data-path="1.73" d="M427,10C467,10,467,6116.625,507,6116.625" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="2" data-path="1.89" d="M427,10C467,10,467,8973.875,507,8973.875" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="2" data-path="1.95" d="M427,10C467,10,467,9103.875,507,9103.875" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="2" data-path="1.101" d="M427,10C467,10,467,9208.875,507,9208.875" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.2.3" d="M778,-9188.875C818,-9188.875,818,-9222.625,858,-9222.625" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.2.6" d="M778,-9188.875C818,-9188.875,818,-9155.125,858,-9155.125" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.10.11" d="M655,-7730.125C695,-7730.125,695,-8904.125,735,-8904.125" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.10.14" d="M655,-7730.125C695,-7730.125,695,-8362.125,735,-8362.125" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.10.17" d="M655,-7730.125C695,-7730.125,695,-7800.125,735,-7800.125" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.10.20" d="M655,-7730.125C695,-7730.125,695,-7228.125,735,-7228.125" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.10.23" d="M655,-7730.125C695,-7730.125,695,-6556.125,735,-6556.125" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.26.27" d="M773,-6123.875C813,-6123.875,813,-6197.625,853,-6197.625" stroke="rgb(214, 39, 40)" stroke-width="1.5" style="--darkreader-inline-stroke: #dc3e3f;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.26.30" d="M773,-6123.875C813,-6123.875,813,-6130.125,853,-6130.125" stroke="rgb(214, 39, 40)" stroke-width="1.5" style="--darkreader-inline-stroke: #dc3e3f;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.26.34" d="M773,-6123.875C813,-6123.875,813,-6050.125,853,-6050.125" stroke="rgb(214, 39, 40)" stroke-width="1.5" style="--darkreader-inline-stroke: #dc3e3f;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.38.39" d="M677,-3775.125C717,-3775.125,717,-5859.125,757,-5859.125" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.38.42" d="M677,-3775.125C717,-3775.125,717,-5317.125,757,-5317.125" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.38.45" d="M677,-3775.125C717,-3775.125,717,-4185.125,757,-4185.125" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.38.48" d="M677,-3775.125C717,-3775.125,717,-2753.125,757,-2753.125" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.38.51" d="M677,-3775.125C717,-3775.125,717,-1691.125,757,-1691.125" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.54.55" d="M675,1045.875C715,1045.875,715,-1069.125,755,-1069.125" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.54.58" d="M675,1045.875C715,1045.875,715,-397.125,755,-397.125" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.54.61" d="M675,1045.875C715,1045.875,715,594.875,755,594.875" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.54.64" d="M675,1045.875C715,1045.875,715,1576.875,755,1576.875" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.54.67" d="M675,1045.875C715,1045.875,715,2388.875,755,2388.875" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.54.70" d="M675,1045.875C715,1045.875,715,3160.875,755,3160.875" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.73.74" d="M680,6116.625C720,6116.625,720,3952.875,760,3952.875" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.73.77" d="M680,6116.625C720,6116.625,720,4694.875,760,4694.875" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.73.80" d="M680,6116.625C720,6116.625,720,5516.875,760,5516.875" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.73.83" d="M680,6116.625C720,6116.625,720,6386.375,760,6386.375" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.73.85" d="M680,6116.625C720,6116.625,720,7203.375,760,7203.375" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.73.87" d="M680,6116.625C720,6116.625,720,8280.375,760,8280.375" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.89.90" d="M796,8973.875C836,8973.875,836,8923.875,876,8923.875" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.89.91" d="M796,8973.875C836,8973.875,836,8948.875,876,8948.875" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.89.92" d="M796,8973.875C836,8973.875,836,8973.875,876,8973.875" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.89.93" d="M796,8973.875C836,8973.875,836,8998.875,876,8998.875" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.89.94" d="M796,8973.875C836,8973.875,836,9023.875,876,9023.875" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.95.96" d="M606,9103.875C646,9103.875,646,9053.875,686,9053.875" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.95.97" d="M606,9103.875C646,9103.875,646,9078.875,686,9078.875" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.95.98" d="M606,9103.875C646,9103.875,646,9103.875,686,9103.875" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.95.99" d="M606,9103.875C646,9103.875,646,9128.875,686,9128.875" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.95.100" d="M606,9103.875C646,9103.875,646,9153.875,686,9153.875" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.101.102" d="M612,9208.875C652,9208.875,652,9183.875,692,9183.875" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.101.103" d="M612,9208.875C652,9208.875,652,9208.875,692,9208.875" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="3" data-path="1.101.104" d="M612,9208.875C652,9208.875,652,9233.875,692,9233.875" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.2.3.4" d="M1092,-9222.625C1132,-9222.625,1132,-9235.125,1172,-9235.125" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.2.3.5" d="M1092,-9222.625C1132,-9222.625,1132,-9210.125,1172,-9210.125" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.2.6.7" d="M1123,-9155.125C1163,-9155.125,1163,-9180.125,1203,-9180.125" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.2.6.8" d="M1123,-9155.125C1163,-9155.125,1163,-9155.125,1203,-9155.125" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.2.6.9" d="M1123,-9155.125C1163,-9155.125,1163,-9130.125,1203,-9130.125" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.10.11.12" d="M1039,-8904.125C1079,-8904.125,1079,-9100.125,1119,-9100.125" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.10.11.13" d="M1039,-8904.125C1079,-8904.125,1079,-8708.125,1119,-8708.125" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.10.14.15" d="M979,-8362.125C1019,-8362.125,1019,-8678.125,1059,-8678.125" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.10.14.16" d="M979,-8362.125C1019,-8362.125,1019,-8046.125,1059,-8046.125" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.10.17.18" d="M1023,-7800.125C1063,-7800.125,1063,-8016.125,1103,-8016.125" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.10.17.19" d="M1023,-7800.125C1063,-7800.125,1063,-7584.125,1103,-7584.125" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.10.20.21" d="M1040,-7228.125C1080,-7228.125,1080,-7554.125,1120,-7554.125" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.10.20.22" d="M1040,-7228.125C1080,-7228.125,1080,-6902.125,1120,-6902.125" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.10.23.24" d="M1049,-6556.125C1089,-6556.125,1089,-6872.125,1129,-6872.125" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.10.23.25" d="M1049,-6556.125C1089,-6556.125,1089,-6240.125,1129,-6240.125" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.26.27.28" d="M1083,-6197.625C1123,-6197.625,1123,-6210.125,1163,-6210.125" stroke="rgb(214, 39, 40)" stroke-width="1.5" style="--darkreader-inline-stroke: #dc3e3f;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.26.27.29" d="M1083,-6197.625C1123,-6197.625,1123,-6185.125,1163,-6185.125" stroke="rgb(214, 39, 40)" stroke-width="1.5" style="--darkreader-inline-stroke: #dc3e3f;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.26.30.31" d="M1107,-6130.125C1147,-6130.125,1147,-6155.125,1187,-6155.125" stroke="rgb(214, 39, 40)" stroke-width="1.5" style="--darkreader-inline-stroke: #dc3e3f;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.26.30.32" d="M1107,-6130.125C1147,-6130.125,1147,-6130.125,1187,-6130.125" stroke="rgb(214, 39, 40)" stroke-width="1.5" style="--darkreader-inline-stroke: #dc3e3f;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.26.30.33" d="M1107,-6130.125C1147,-6130.125,1147,-6105.125,1187,-6105.125" stroke="rgb(214, 39, 40)" stroke-width="1.5" style="--darkreader-inline-stroke: #dc3e3f;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.26.34.35" d="M1087,-6050.125C1127,-6050.125,1127,-6075.125,1167,-6075.125" stroke="rgb(214, 39, 40)" stroke-width="1.5" style="--darkreader-inline-stroke: #dc3e3f;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.26.34.36" d="M1087,-6050.125C1127,-6050.125,1127,-6050.125,1167,-6050.125" stroke="rgb(214, 39, 40)" stroke-width="1.5" style="--darkreader-inline-stroke: #dc3e3f;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.26.34.37" d="M1087,-6050.125C1127,-6050.125,1127,-6025.125,1167,-6025.125" stroke="rgb(214, 39, 40)" stroke-width="1.5" style="--darkreader-inline-stroke: #dc3e3f;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.38.39.40" d="M912,-5859.125C952,-5859.125,952,-5995.125,992,-5995.125" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.38.39.41" d="M912,-5859.125C952,-5859.125,952,-5723.125,992,-5723.125" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.38.42.43" d="M961,-5317.125C1001,-5317.125,1001,-5693.125,1041,-5693.125" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.38.42.44" d="M961,-5317.125C1001,-5317.125,1001,-4941.125,1041,-4941.125" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.38.45.46" d="M968,-4185.125C1008,-4185.125,1008,-4911.125,1048,-4911.125" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.38.45.47" d="M968,-4185.125C1008,-4185.125,1008,-3459.125,1048,-3459.125" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.38.48.49" d="M893,-2753.125C933,-2753.125,933,-3429.125,973,-3429.125" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.38.48.50" d="M893,-2753.125C933,-2753.125,933,-2077.125,973,-2077.125" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.38.51.52" d="M914,-1691.125C954,-1691.125,954,-2047.125,994,-2047.125" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.38.51.53" d="M914,-1691.125C954,-1691.125,954,-1335.125,994,-1335.125" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.54.55.56" d="M899,-1069.125C939,-1069.125,939,-1305.125,979,-1305.125" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.54.55.57" d="M899,-1069.125C939,-1069.125,939,-833.125,979,-833.125" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.54.58.59" d="M886,-397.125C926,-397.125,926,-803.125,966,-803.125" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.54.58.60" d="M886,-397.125C926,-397.125,926,8.875,966,8.875" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.54.61.62" d="M920,594.875C960,594.875,960,38.875,1000,38.875" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.54.61.63" d="M920,594.875C960,594.875,960,1150.875,1000,1150.875" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.54.64.65" d="M915,1576.875C955,1576.875,955,1180.875,995,1180.875" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.54.64.66" d="M915,1576.875C955,1576.875,955,1972.875,995,1972.875" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.54.67.68" d="M891,2388.875C931,2388.875,931,2002.875,971,2002.875" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.54.67.69" d="M891,2388.875C931,2388.875,931,2774.875,971,2774.875" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.54.70.71" d="M879,3160.875C919,3160.875,919,2804.875,959,2804.875" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.54.70.72" d="M879,3160.875C919,3160.875,919,3516.875,959,3516.875" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.73.74.75" d="M914,3952.875C954,3952.875,954,3546.875,994,3546.875" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.73.74.76" d="M914,3952.875C954,3952.875,954,4358.875,994,4358.875" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.73.77.78" d="M908,4694.875C948,4694.875,948,4388.875,988,4388.875" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.73.77.79" d="M908,4694.875C948,4694.875,948,5000.875,988,5000.875" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.73.80.81" d="M1022,5516.875C1062,5516.875,1062,5030.875,1102,5030.875" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.73.80.82" d="M1022,5516.875C1062,5516.875,1062,6002.875,1102,6002.875" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.73.83.84" d="M922,6386.375C962,6386.375,962,6739.875,1002,6739.875" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.73.85.86" d="M882,7203.375C922,7203.375,922,7636.875,962,7636.875" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><path class="markmap-link" data-depth="4" data-path="1.73.87.88" d="M978,8280.375C1018,8280.375,1018,8893.875,1058,8893.875" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #b9867c;" data-darkreader-inline-stroke=""></path><g data-depth="4" data-path="1.73.87.88" transform="translate(1058, 7646.875)" class="markmap-node"><line x1="-1" x2="1266" y1="1247" y2="1247" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="1248" height="1247"><div xmlns="http://www.w3.org/1999/xhtml">Definition: Defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure.<br/>
+Example:<pre><code class="language-python"><span class="hljs-keyword">from</span> abc <span class="hljs-keyword">import</span> ABC, abstractmethod
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">AbstractClass</span>(<span class="hljs-title class_ inherited__">ABC</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">template_method</span>(<span class="hljs-params">self</span>):
+        result = []
+        result.append(self.base_operation1())
+        result.append(self.required_operations1())
+        result.append(self.base_operation2())
+        result.append(self.hook1())
+        <span class="hljs-keyword">if</span> self.hook2():
+            result.append(self.required_operations2())
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"\n"</span>.join(result)
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">base_operation1</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"AbstractClass: base operation1"</span>
+
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">required_operations1</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">pass</span>
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">base_operation2</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"AbstractClass: base operation2"</span>
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">hook1</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"AbstractClass: hook1"</span>
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">hook2</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> <span class="hljs-literal">True</span>
+
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">required_operations2</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ConcreteClass1</span>(<span class="hljs-title class_ inherited__">AbstractClass</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">required_operations1</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"ConcreteClass1: implementing required operation1"</span>
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">required_operations2</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"ConcreteClass1: implementing required operation2"</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ConcreteClass2</span>(<span class="hljs-title class_ inherited__">AbstractClass</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">required_operations1</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"ConcreteClass2: implementing required operation1"</span>
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">hook2</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> <span class="hljs-literal">False</span>
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">required_operations2</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"ConcreteClass2: implementing required operation2"</span>
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">client_code</span>(<span class="hljs-params">abstract_class</span>):
+    <span class="hljs-built_in">print</span>(abstract_class.template_method())
+
+concrete_class1 = ConcreteClass1()
+<span class="hljs-built_in">print</span>(<span class="hljs-string">"Client: ConcreteClass1 calls the template method:"</span>)
+client_code(concrete_class1)
+
+concrete_class2 = ConcreteClass2()
+<span class="hljs-built_in">print</span>(<span class="hljs-string">"\nClient: ConcreteClass2 calls the template method:"</span>)
+client_code(concrete_class2)
+</code></pre></div></foreignObject></g><g data-depth="4" data-path="1.73.85.86" transform="translate(962, 6749.875)" class="markmap-node"><line x1="-1" x2="1002" y1="887" y2="887" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="984" height="887"><div xmlns="http://www.w3.org/1999/xhtml">Definition: Allows an object to alter its behavior when its internal state changes. The object will appear to change its class.<br/>
+Example:<pre><code class="language-python"><span class="hljs-keyword">from</span> abc <span class="hljs-keyword">import</span> ABC, abstractmethod
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Context</span>:
+    _state = <span class="hljs-literal">None</span>
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__init__</span>(<span class="hljs-params">self, state</span>):
+        self.transition_to(state)
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">transition_to</span>(<span class="hljs-params">self, state</span>):
+        <span class="hljs-built_in">print</span>(<span class="hljs-string">f"Context: Transition to <span class="hljs-subst">{<span class="hljs-built_in">type</span>(state).__name__}</span>"</span>)
+        self._state = state
+        self._state.context = self
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">request</span>(<span class="hljs-params">self</span>):
+        self._state.handle()
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">State</span>(<span class="hljs-title class_ inherited__">ABC</span>):
+<span class="hljs-meta">    @property</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">context</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> self._context
+
+<span class="hljs-meta">    @context.setter</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">context</span>(<span class="hljs-params">self, context</span>):
+        self._context = context
+
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">handle</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ConcreteStateA</span>(<span class="hljs-title class_ inherited__">State</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">handle</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-built_in">print</span>(<span class="hljs-string">"ConcreteStateA: Handle request"</span>)
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ConcreteStateB</span>(<span class="hljs-title class_ inherited__">State</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">handle</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-built_in">print</span>(<span class="hljs-string">"ConcreteStateB: Handle request"</span>)
+
+context = Context(ConcreteStateA())
+context.request()  <span class="hljs-comment"># Output: Context: Transition to ConcreteStateA, ConcreteStateA: Handle request</span>
+
+context.transition_to(ConcreteStateB())
+context.request()  <span class="hljs-comment"># Output: Context: Transition to ConcreteStateB, ConcreteStateB: Handle request</span>
+</code></pre></div></foreignObject></g><g data-depth="4" data-path="1.73.83.84" transform="translate(1002, 6012.875)" class="markmap-node"><line x1="-1" x2="1504" y1="727" y2="727" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="1486" height="727"><div xmlns="http://www.w3.org/1999/xhtml">Definition: Turns a request into a stand-alone object that contains all information about the request. This transformation lets you pass requests as arguments, delay or queue a request's<pre><code class="language-python"><span class="hljs-keyword">from</span> abc <span class="hljs-keyword">import</span> ABC, abstractmethod
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Command</span>(<span class="hljs-title class_ inherited__">ABC</span>):
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">execute</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Receiver</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">action</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"Receiver: executing action."</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ConcreteCommand</span>(<span class="hljs-title class_ inherited__">Command</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__init__</span>(<span class="hljs-params">self, receiver</span>):
+        self._receiver = receiver
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">execute</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> self._receiver.action()
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Invoker</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__init__</span>(<span class="hljs-params">self</span>):
+        self._command = <span class="hljs-literal">None</span>
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">set_command</span>(<span class="hljs-params">self, command</span>):
+        self._command = command
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">execute_command</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> self._command.execute()
+
+receiver = Receiver()
+command = ConcreteCommand(receiver)
+invoker = Invoker()
+
+invoker.set_command(command)
+result = invoker.execute_command()
+<span class="hljs-built_in">print</span>(result)  <span class="hljs-comment"># Output: Receiver: executing action.</span>
+</code></pre></div></foreignObject></g><g data-depth="4" data-path="1.73.80.82" transform="translate(1102, 5035.875)" class="markmap-node"><line x1="-1" x2="581" y1="967" y2="967" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="563" height="967"><div xmlns="http://www.w3.org/1999/xhtml">Example:<pre><code class="language-python"><span class="hljs-keyword">from</span> abc <span class="hljs-keyword">import</span> ABC, abstractmethod
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Handler</span>(<span class="hljs-title class_ inherited__">ABC</span>):
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">set_next</span>(<span class="hljs-params">self, handler</span>):
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">handle</span>(<span class="hljs-params">self, request</span>):
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">AbstractHandler</span>(<span class="hljs-title class_ inherited__">Handler</span>):
+    _next_handler = <span class="hljs-literal">None</span>
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">set_next</span>(<span class="hljs-params">self, handler</span>):
+        self._next_handler = handler
+        <span class="hljs-keyword">return</span> handler
+
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">handle</span>(<span class="hljs-params">self, request</span>):
+        <span class="hljs-keyword">if</span> self._next_handler:
+            <span class="hljs-keyword">return</span> self._next_handler.handle(request)
+        <span class="hljs-keyword">return</span> <span class="hljs-literal">None</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ConcreteHandler1</span>(<span class="hljs-title class_ inherited__">AbstractHandler</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">handle</span>(<span class="hljs-params">self, request</span>):
+        <span class="hljs-keyword">if</span> request == <span class="hljs-string">"Handler1"</span>:
+            <span class="hljs-keyword">return</span> <span class="hljs-string">f"<span class="hljs-subst">{self.__class__.__name__}</span>: Handled <span class="hljs-subst">{request}</span>"</span>
+        <span class="hljs-keyword">else</span>:
+            <span class="hljs-keyword">return</span> <span class="hljs-built_in">super</span>().handle(request)
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ConcreteHandler2</span>(<span class="hljs-title class_ inherited__">AbstractHandler</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">handle</span>(<span class="hljs-params">self, request</span>):
+        <span class="hljs-keyword">if</span> request == <span class="hljs-string">"Handler2"</span>:
+            <span class="hljs-keyword">return</span> <span class="hljs-string">f"<span class="hljs-subst">{self.__class__.__name__}</span>: Handled <span class="hljs-subst">{request}</span>"</span>
+        <span class="hljs-keyword">else</span>:
+            <span class="hljs-keyword">return</span> <span class="hljs-built_in">super</span>().handle(request)
+
+handler1 = ConcreteHandler1()
+handler2 = ConcreteHandler2()
+
+handler1.set_next(handler2)
+result = handler1.handle(<span class="hljs-string">"Handler1"</span>)
+<span class="hljs-built_in">print</span>(result)  <span class="hljs-comment"># Output: ConcreteHandler1: Handled Handler1</span>
+
+result = handler1.handle(<span class="hljs-string">"Handler2"</span>)
+<span class="hljs-built_in">print</span>(result)  <span class="hljs-comment"># Output: ConcreteHandler2: Handled Handler2</span>
+</code></pre></div></foreignObject></g><g data-depth="4" data-path="1.73.80.81" transform="translate(1102, 5010.875)" class="markmap-node"><line x1="-1" x2="1499" y1="20" y2="20" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="1481" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Definition: Allows passing requests along a chain of handlers. Upon receiving a request, each handler decides either to process the request or to pass it to the next handler in the chain.</div></foreignObject></g><g data-depth="4" data-path="1.73.77.79" transform="translate(988, 4393.875)" class="markmap-node"><line x1="-1" x2="430" y1="607" y2="607" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="412" height="607"><div xmlns="http://www.w3.org/1999/xhtml">Example:<pre><code class="language-python"><span class="hljs-keyword">from</span> abc <span class="hljs-keyword">import</span> ABC, abstractmethod
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Strategy</span>(<span class="hljs-title class_ inherited__">ABC</span>):
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">do_algorithm</span>(<span class="hljs-params">self, data</span>):
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ConcreteStrategyA</span>(<span class="hljs-title class_ inherited__">Strategy</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">do_algorithm</span>(<span class="hljs-params">self, data</span>):
+        <span class="hljs-keyword">return</span> <span class="hljs-built_in">sorted</span>(data)
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ConcreteStrategyB</span>(<span class="hljs-title class_ inherited__">Strategy</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">do_algorithm</span>(<span class="hljs-params">self, data</span>):
+        <span class="hljs-keyword">return</span> <span class="hljs-built_in">reversed</span>(<span class="hljs-built_in">sorted</span>(data))
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Context</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__init__</span>(<span class="hljs-params">self, strategy: Strategy</span>):
+        self._strategy = strategy
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">context_interface</span>(<span class="hljs-params">self, data</span>):
+        <span class="hljs-keyword">return</span> self._strategy.do_algorithm(data)
+
+context = Context(ConcreteStrategyA())
+result = context.context_interface([<span class="hljs-number">3</span>, <span class="hljs-number">2</span>, <span class="hljs-number">1</span>])
+<span class="hljs-built_in">print</span>(result)  <span class="hljs-comment"># Output: [1, 2, 3]</span>
+
+context = Context(ConcreteStrategyB())
+result = context.context_interface([<span class="hljs-number">3</span>, <span class="hljs-number">2</span>, <span class="hljs-number">1</span>])
+<span class="hljs-built_in">print</span>(result)  <span class="hljs-comment"># Output: [3, 2, 1]</span>
+</code></pre></div></foreignObject></g><g data-depth="4" data-path="1.73.77.78" transform="translate(988, 4368.875)" class="markmap-node"><line x1="-1" x2="1399" y1="20" y2="20" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="1381" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Definition: Defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it.</div></foreignObject></g><g data-depth="4" data-path="1.73.74.76" transform="translate(994, 3551.875)" class="markmap-node"><line x1="-1" x2="530" y1="807" y2="807" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="512" height="807"><div xmlns="http://www.w3.org/1999/xhtml">Example:<pre><code class="language-python"><span class="hljs-keyword">class</span> <span class="hljs-title class_">Observer</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">update</span>(<span class="hljs-params">self, subject</span>):
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Subject</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__init__</span>(<span class="hljs-params">self</span>):
+        self._observers = []
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">attach</span>(<span class="hljs-params">self, observer</span>):
+        self._observers.append(observer)
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">detach</span>(<span class="hljs-params">self, observer</span>):
+        self._observers.remove(observer)
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">notify</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">for</span> observer <span class="hljs-keyword">in</span> self._observers:
+            observer.update(self)
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">some_business_logic</span>(<span class="hljs-params">self</span>):
+        self.notify()
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ConcreteObserverA</span>(<span class="hljs-title class_ inherited__">Observer</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">update</span>(<span class="hljs-params">self, subject</span>):
+        <span class="hljs-keyword">if</span> subject.some_business_logic():
+            <span class="hljs-built_in">print</span>(<span class="hljs-string">"ConcreteObserverA: Reacted to the event"</span>)
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ConcreteObserverB</span>(<span class="hljs-title class_ inherited__">Observer</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">update</span>(<span class="hljs-params">self, subject</span>):
+        <span class="hljs-keyword">if</span> subject.some_business_logic():
+            <span class="hljs-built_in">print</span>(<span class="hljs-string">"ConcreteObserverB: Reacted to the event"</span>)
+
+subject = Subject()
+observer1 = ConcreteObserverA()
+observer2 = ConcreteObserverB()
+
+subject.attach(observer1)
+subject.attach(observer2)
+
+subject.some_business_logic()
+</code></pre></div></foreignObject></g><g data-depth="4" data-path="1.73.74.75" transform="translate(994, 3526.875)" class="markmap-node"><line x1="-1" x2="1320" y1="20" y2="20" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="1302" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Definition: Defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.</div></foreignObject></g><g data-depth="4" data-path="1.54.70.72" transform="translate(959, 2809.875)" class="markmap-node"><line x1="-1" x2="1051" y1="707" y2="707" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #553375;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="1033" height="707"><div xmlns="http://www.w3.org/1999/xhtml">Example:<pre><code class="language-python"><span class="hljs-keyword">from</span> abc <span class="hljs-keyword">import</span> ABC, abstractmethod
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Subject</span>(<span class="hljs-title class_ inherited__">ABC</span>):
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">request</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">str</span>:
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">RealSubject</span>(<span class="hljs-title class_ inherited__">Subject</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">request</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">str</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"RealSubject: Handling request."</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Proxy</span>(<span class="hljs-title class_ inherited__">Subject</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__init__</span>(<span class="hljs-params">self, real_subject: RealSubject</span>) -&gt; <span class="hljs-literal">None</span>:
+        self._real_subject = real_subject
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">request</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">str</span>:
+        <span class="hljs-keyword">if</span> self.check_access():
+            <span class="hljs-keyword">return</span> self._real_subject.request()
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"Proxy: Access denied."</span>
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">check_access</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">bool</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-literal">True</span>  <span class="hljs-comment"># For simplicity, always grant access.</span>
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">client_code</span>(<span class="hljs-params">subject: Subject</span>) -&gt; <span class="hljs-literal">None</span>:
+    <span class="hljs-built_in">print</span>(subject.request())
+
+real_subject = RealSubject()
+proxy = Proxy(real_subject)
+
+<span class="hljs-built_in">print</span>(<span class="hljs-string">"Client: Executing the client code with a real subject:"</span>)
+client_code(real_subject)  <span class="hljs-comment"># Output: Client: Executing the client code with a real subject: RealSubject: Handling request.</span>
+
+<span class="hljs-built_in">print</span>(<span class="hljs-string">"\nClient: Executing the same client code with a proxy:"</span>)
+client_code(proxy)  <span class="hljs-comment"># Output: Client: Executing the same client code with a proxy: RealSubject: Handling request.</span>
+</code></pre></div></foreignObject></g><g data-depth="4" data-path="1.54.70.71" transform="translate(959, 2784.875)" class="markmap-node"><line x1="-1" x2="724" y1="20" y2="20" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #553375;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="706" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Definition: Provides a surrogate or placeholder for another object to control access to it.</div></foreignObject></g><g data-depth="4" data-path="1.54.67.69" transform="translate(971, 2007.875)" class="markmap-node"><line x1="-1" x2="640" y1="767" y2="767" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #553375;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="622" height="767"><div xmlns="http://www.w3.org/1999/xhtml">Example:<pre><code class="language-python"><span class="hljs-keyword">class</span> <span class="hljs-title class_">Subsystem1</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">operation1</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">str</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"Subsystem1: Ready!"</span>
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">operation_n</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">str</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"Subsystem1: Go!"</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Subsystem2</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">operation1</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">str</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"Subsystem2: Get ready!"</span>
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">operation_z</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">str</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"Subsystem2: Fire!"</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Facade</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__init__</span>(<span class="hljs-params">self, subsystem1: Subsystem1, subsystem2: Subsystem2</span>):
+        self._subsystem1 = subsystem1
+        self._subsystem2 = subsystem2
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">operation</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">str</span>:
+        results = []
+        results.append(<span class="hljs-string">"Facade initializes subsystems:"</span>)
+        results.append(self._subsystem1.operation1())
+        results.append(self._subsystem2.operation1())
+        results.append(<span class="hljs-string">"Facade orders subsystems to perform the action:"</span>)
+        results.append(self._subsystem1.operation_n())
+        results.append(self._subsystem2.operation_z())
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"\n"</span>.join(results)
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">client_code</span>(<span class="hljs-params">facade: Facade</span>) -&gt; <span class="hljs-literal">None</span>:
+    <span class="hljs-built_in">print</span>(facade.operation())
+
+subsystem1 = Subsystem1()
+subsystem2 = Subsystem2()
+facade = Facade(subsystem1, subsystem2)
+
+client_code(facade)
+</code></pre></div></foreignObject></g><g data-depth="4" data-path="1.54.67.68" transform="translate(971, 1982.875)" class="markmap-node"><line x1="-1" x2="826" y1="20" y2="20" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #553375;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="808" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Definition: Provides a simplified interface to a complex system of classes, interfaces, or subsystems.</div></foreignObject></g><g data-depth="4" data-path="1.54.64.66" transform="translate(995, 1185.875)" class="markmap-node"><line x1="-1" x2="1236" y1="787" y2="787" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #553375;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="1218" height="787"><div xmlns="http://www.w3.org/1999/xhtml">Example:<pre><code class="language-python"><span class="hljs-keyword">from</span> abc <span class="hljs-keyword">import</span> ABC, abstractmethod
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Component</span>(<span class="hljs-title class_ inherited__">ABC</span>):
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">operation</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">str</span>:
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ConcreteComponent</span>(<span class="hljs-title class_ inherited__">Component</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">operation</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">str</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"ConcreteComponent"</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Decorator</span>(<span class="hljs-title class_ inherited__">Component</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__init__</span>(<span class="hljs-params">self, component: Component</span>) -&gt; <span class="hljs-literal">None</span>:
+        self._component = component
+
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">operation</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">str</span>:
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ConcreteDecoratorA</span>(<span class="hljs-title class_ inherited__">Decorator</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">operation</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">str</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-string">f"ConcreteDecoratorA(<span class="hljs-subst">{self._component.operation()}</span>)"</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ConcreteDecoratorB</span>(<span class="hljs-title class_ inherited__">Decorator</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">operation</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">str</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-string">f"ConcreteDecoratorB(<span class="hljs-subst">{self._component.operation()}</span>)"</span>
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">client_code</span>(<span class="hljs-params">component: Component</span>) -&gt; <span class="hljs-literal">None</span>:
+    <span class="hljs-built_in">print</span>(<span class="hljs-string">f"RESULT: <span class="hljs-subst">{component.operation()}</span>"</span>, end=<span class="hljs-string">""</span>)
+
+simple = ConcreteComponent()
+<span class="hljs-built_in">print</span>(<span class="hljs-string">"Client: I've got a simple component:"</span>)
+client_code(simple)  <span class="hljs-comment"># Output: Client: I've got a simple component: RESULT: ConcreteComponent</span>
+
+decorator1 = ConcreteDecoratorA(simple)
+decorator2 = ConcreteDecoratorB(decorator1)
+<span class="hljs-built_in">print</span>(<span class="hljs-string">"\n\nClient: Now I've got a decorated component:"</span>)
+client_code(decorator2)  <span class="hljs-comment"># Output: Client: Now I've got a decorated component: RESULT: ConcreteDecoratorB(ConcreteDecoratorA(ConcreteComponent))</span>
+</code></pre></div></foreignObject></g><g data-depth="4" data-path="1.54.64.65" transform="translate(995, 1160.875)" class="markmap-node"><line x1="-1" x2="1172" y1="20" y2="20" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #553375;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="1154" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Definition: Attaches additional responsibilities to an object dynamically. Provides a flexible alternative to subclassing for extending functionality.</div></foreignObject></g><g data-depth="4" data-path="1.54.61.63" transform="translate(1000, 43.875)" class="markmap-node"><line x1="-1" x2="1068" y1="1107" y2="1107" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #553375;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="1050" height="1107"><div xmlns="http://www.w3.org/1999/xhtml">Example:<pre><code class="language-python"><span class="hljs-keyword">from</span> abc <span class="hljs-keyword">import</span> ABC, abstractmethod
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Component</span>(<span class="hljs-title class_ inherited__">ABC</span>):
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">operation</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">str</span>:
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Leaf</span>(<span class="hljs-title class_ inherited__">Component</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">operation</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">str</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"Leaf"</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Composite</span>(<span class="hljs-title class_ inherited__">Component</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__init__</span>(<span class="hljs-params">self</span>):
+        self._children = []
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">add</span>(<span class="hljs-params">self, component: Component</span>) -&gt; <span class="hljs-literal">None</span>:
+        self._children.append(component)
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">remove</span>(<span class="hljs-params">self, component: Component</span>) -&gt; <span class="hljs-literal">None</span>:
+        self._children.remove(component)
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">operation</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">str</span>:
+        results = []
+        <span class="hljs-keyword">for</span> child <span class="hljs-keyword">in</span> self._children:
+            results.append(child.operation())
+        <span class="hljs-keyword">return</span> <span class="hljs-string">f"Branch(<span class="hljs-subst">{<span class="hljs-string">'+'</span>.join(results)}</span>)"</span>
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">client_code</span>(<span class="hljs-params">component: Component</span>) -&gt; <span class="hljs-literal">None</span>:
+    <span class="hljs-built_in">print</span>(<span class="hljs-string">f"RESULT: <span class="hljs-subst">{component.operation()}</span>"</span>, end=<span class="hljs-string">""</span>)
+
+leaf = Leaf()
+<span class="hljs-built_in">print</span>(<span class="hljs-string">"Client: I've got a simple component:"</span>)
+client_code(leaf)  <span class="hljs-comment"># Output: Client: I've got a simple component: RESULT: Leaf</span>
+
+composite = Composite()
+tree = Composite()
+
+tree.add(leaf)
+tree.add(composite)
+<span class="hljs-built_in">print</span>(<span class="hljs-string">"\n\nClient: Now I've got a composite tree:"</span>)
+client_code(tree)  <span class="hljs-comment"># Output: Client: Now I've got a composite tree: RESULT: Leaf+Branch()</span>
+
+branch1 = Composite()
+branch1.add(Leaf())
+branch1.add(Leaf())
+
+branch2 = Composite()
+branch2.add(Leaf())
+
+tree.add(branch1)
+tree.add(branch2)
+
+<span class="hljs-built_in">print</span>(<span class="hljs-string">"\n\nClient: Now I've got a more complex composite tree:"</span>)
+client_code(tree)  <span class="hljs-comment"># Output: Client: Now I've got a more complex composite tree: RESULT: Leaf+Branch(Leaf+Leaf)+Branch(Leaf)</span>
+</code></pre></div></foreignObject></g><g data-depth="4" data-path="1.54.61.62" transform="translate(1000, 18.875)" class="markmap-node"><line x1="-1" x2="1342" y1="20" y2="20" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #553375;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="1324" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Definition: Composes objects into tree structures to represent part-whole hierarchies. Allows clients to treat individual objects and compositions of objects uniformly.</div></foreignObject></g><g data-depth="4" data-path="1.54.58.60" transform="translate(966, -798.125)" class="markmap-node"><line x1="-1" x2="1219" y1="807" y2="807" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #553375;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="1201" height="807"><div xmlns="http://www.w3.org/1999/xhtml">Example:<pre><code class="language-python"><span class="hljs-keyword">from</span> abc <span class="hljs-keyword">import</span> ABC, abstractmethod
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Implementor</span>(<span class="hljs-title class_ inherited__">ABC</span>):
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">operation_implementation</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">str</span>:
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ConcreteImplementorA</span>(<span class="hljs-title class_ inherited__">Implementor</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">operation_implementation</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">str</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"ConcreteImplementorA: Here's the result on the platform A."</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ConcreteImplementorB</span>(<span class="hljs-title class_ inherited__">Implementor</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">operation_implementation</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">str</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"ConcreteImplementorB: Here's the result on the platform B."</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Abstraction</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__init__</span>(<span class="hljs-params">self, implementor: Implementor</span>):
+        self.implementor = implementor
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">operation</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">str</span>:
+        <span class="hljs-keyword">return</span> (<span class="hljs-string">f"Abstraction: Base operation with:\n"</span>
+                <span class="hljs-string">f"<span class="hljs-subst">{self.implementor.operation_implementation()}</span>"</span>)
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ExtendedAbstraction</span>(<span class="hljs-title class_ inherited__">Abstraction</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">operation</span>(<span class="hljs-params">self</span>) -&gt; <span class="hljs-built_in">str</span>:
+        <span class="hljs-keyword">return</span> (<span class="hljs-string">f"ExtendedAbstraction: Extended operation with:\n"</span>
+                <span class="hljs-string">f"<span class="hljs-subst">{self.implementor.operation_implementation()}</span>"</span>)
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">client_code</span>(<span class="hljs-params">abstraction: Abstraction</span>) -&gt; <span class="hljs-literal">None</span>:
+    <span class="hljs-built_in">print</span>(abstraction.operation())
+
+implementor_a = ConcreteImplementorA()
+implementor_b = ConcreteImplementorB()
+
+abstraction_a = Abstraction(implementor_a)
+abstraction_b = ExtendedAbstraction(implementor_b)
+
+client_code(abstraction_a)  <span class="hljs-comment"># Output: Abstraction: Base operation with: ConcreteImplementorA: Here's the result on the platform A.</span>
+client_code(abstraction_b)  <span class="hljs-comment"># Output: ExtendedAbstraction: Extended operation with: ConcreteImplementorB: Here's the result on the platform B.</span>
+</code></pre></div></foreignObject></g><g data-depth="4" data-path="1.54.58.59" transform="translate(966, -823.125)" class="markmap-node"><line x1="-1" x2="833" y1="20" y2="20" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #553375;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="815" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Definition: Decouples an abstraction from its implementation so that the two can vary independently.</div></foreignObject></g><g data-depth="4" data-path="1.54.55.57" transform="translate(979, -1300.125)" class="markmap-node"><line x1="-1" x2="749" y1="467" y2="467" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #553375;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="731" height="467"><div xmlns="http://www.w3.org/1999/xhtml">Example:<pre><code class="language-python"><span class="hljs-keyword">class</span> <span class="hljs-title class_">Target</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">request</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"Target: The default target's behavior."</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Adaptee</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">specific_request</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> <span class="hljs-string">".eetpadA eht fo roivaheb laicepS"</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Adapter</span>(<span class="hljs-title class_ inherited__">Target</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__init__</span>(<span class="hljs-params">self, adaptee</span>):
+        self.adaptee = adaptee
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">request</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> <span class="hljs-string">f"Adapter: (TRANSLATED) <span class="hljs-subst">{self.adaptee.specific_request()[::-<span class="hljs-number">1</span>]}</span>"</span>
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">client_code</span>(<span class="hljs-params">target</span>):
+    <span class="hljs-built_in">print</span>(target.request())
+
+adaptee = Adaptee()
+adapter = Adapter(adaptee)
+
+client_code(adapter)  <span class="hljs-comment"># Output: Adapter: (TRANSLATED) Special behavior of the adaptee.</span>
+</code></pre></div></foreignObject></g><g data-depth="4" data-path="1.54.55.56" transform="translate(979, -1325.125)" class="markmap-node"><line x1="-1" x2="575" y1="20" y2="20" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #553375;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="557" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Definition: Allows objects with incompatible interfaces to collaborate.</div></foreignObject></g><g data-depth="4" data-path="1.38.51.53" transform="translate(994, -2042.125)" class="markmap-node"><line x1="-1" x2="480" y1="707" y2="707" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="462" height="707"><div xmlns="http://www.w3.org/1999/xhtml">Example:<pre><code class="language-python"><span class="hljs-keyword">import</span> copy
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Prototype</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__init__</span>(<span class="hljs-params">self</span>):
+        self._objects = {}
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">register_object</span>(<span class="hljs-params">self, name, obj</span>):
+        self._objects[name] = obj
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">unregister_object</span>(<span class="hljs-params">self, name</span>):
+        <span class="hljs-keyword">del</span> self._objects[name]
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">clone</span>(<span class="hljs-params">self, name, **attrs</span>):
+        obj = copy.deepcopy(self._objects.get(name))
+        obj.__dict__.update(attrs)
+        <span class="hljs-keyword">return</span> obj
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Car</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__init__</span>(<span class="hljs-params">self</span>):
+        self.make = <span class="hljs-string">"Toyota"</span>
+        self.model = <span class="hljs-string">"Corolla"</span>
+        self.year = <span class="hljs-number">2022</span>
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__str__</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> <span class="hljs-string">f"<span class="hljs-subst">{self.year}</span> <span class="hljs-subst">{self.make}</span> <span class="hljs-subst">{self.model}</span>"</span>
+
+car_prototype = Prototype()
+car_prototype.register_object(<span class="hljs-string">"Corolla"</span>, Car())
+
+car1 = car_prototype.clone(<span class="hljs-string">"Corolla"</span>)
+<span class="hljs-built_in">print</span>(car1)  <span class="hljs-comment"># Output: 2022 Toyota Corolla</span>
+
+car2 = car_prototype.clone(<span class="hljs-string">"Corolla"</span>, year=<span class="hljs-number">2023</span>)
+<span class="hljs-built_in">print</span>(car2)  <span class="hljs-comment"># Output: 2023 Toyota Corolla</span>
+</code></pre></div></foreignObject></g><g data-depth="4" data-path="1.38.51.52" transform="translate(994, -2067.125)" class="markmap-node"><line x1="-1" x2="714" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="696" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Definition: Creates new objects by copying an existing object, known as the prototype.</div></foreignObject></g><g data-depth="4" data-path="1.38.48.50" transform="translate(973, -3424.125)" class="markmap-node"><line x1="-1" x2="614" y1="1347" y2="1347" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="596" height="1347"><div xmlns="http://www.w3.org/1999/xhtml">Example:<pre><code class="language-python"><span class="hljs-keyword">from</span> abc <span class="hljs-keyword">import</span> ABC, abstractmethod
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Builder</span>(<span class="hljs-title class_ inherited__">ABC</span>):
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">build_part_a</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">build_part_b</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ConcreteBuilder1</span>(<span class="hljs-title class_ inherited__">Builder</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__init__</span>(<span class="hljs-params">self</span>):
+        self.product = Product()
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">build_part_a</span>(<span class="hljs-params">self</span>):
+        self.product.add(<span class="hljs-string">"PartA1"</span>)
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">build_part_b</span>(<span class="hljs-params">self</span>):
+        self.product.add(<span class="hljs-string">"PartB1"</span>)
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ConcreteBuilder2</span>(<span class="hljs-title class_ inherited__">Builder</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__init__</span>(<span class="hljs-params">self</span>):
+        self.product = Product()
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">build_part_a</span>(<span class="hljs-params">self</span>):
+        self.product.add(<span class="hljs-string">"PartA2"</span>)
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">build_part_b</span>(<span class="hljs-params">self</span>):
+        self.product.add(<span class="hljs-string">"PartB2"</span>)
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Product</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__init__</span>(<span class="hljs-params">self</span>):
+        self.parts = []
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">add</span>(<span class="hljs-params">self, part</span>):
+        self.parts.append(part)
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">list_parts</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-built_in">print</span>(<span class="hljs-string">f"Product parts: <span class="hljs-subst">{<span class="hljs-string">', '</span>.join(self.parts)}</span>"</span>)
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Director</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__init__</span>(<span class="hljs-params">self</span>):
+        self.builder = <span class="hljs-literal">None</span>
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">set_builder</span>(<span class="hljs-params">self, builder</span>):
+        self.builder = builder
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">build_minimal_viable_product</span>(<span class="hljs-params">self</span>):
+        self.builder.build_part_a()
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">build_full_featured_product</span>(<span class="hljs-params">self</span>):
+        self.builder.build_part_a()
+        self.builder.build_part_b()
+
+director = Director()
+
+builder1 = ConcreteBuilder1()
+director.set_builder(builder1)
+director.build_minimal_viable_product()
+builder1.product.list_parts()  <span class="hljs-comment"># Output: Product parts: PartA1</span>
+
+builder2 = ConcreteBuilder2()
+director.set_builder(builder2)
+director.build_full_featured_product()
+builder2.product.list_parts()  <span class="hljs-comment"># Output: Product parts: PartA2, PartB2</span>
+</code></pre></div></foreignObject></g><g data-depth="4" data-path="1.38.48.49" transform="translate(973, -3449.125)" class="markmap-node"><line x1="-1" x2="1286" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="1268" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Definition: Separates the construction of a complex object from its representation so that the same construction process can create different representations.</div></foreignObject></g><g data-depth="4" data-path="1.38.45.47" transform="translate(1048, -4906.125)" class="markmap-node"><line x1="-1" x2="1219" y1="1447" y2="1447" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="1201" height="1447"><div xmlns="http://www.w3.org/1999/xhtml">Example:<pre><code class="language-python"><span class="hljs-keyword">from</span> abc <span class="hljs-keyword">import</span> ABC, abstractmethod
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">AbstractFactory</span>(<span class="hljs-title class_ inherited__">ABC</span>):
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">create_product_a</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">create_product_b</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ConcreteFactory1</span>(<span class="hljs-title class_ inherited__">AbstractFactory</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">create_product_a</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> ConcreteProductA1()
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">create_product_b</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> ConcreteProductB1()
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ConcreteFactory2</span>(<span class="hljs-title class_ inherited__">AbstractFactory</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">create_product_a</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> ConcreteProductA2()
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">create_product_b</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> ConcreteProductB2()
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">AbstractProductA</span>(<span class="hljs-title class_ inherited__">ABC</span>):
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">useful_function_a</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ConcreteProductA1</span>(<span class="hljs-title class_ inherited__">AbstractProductA</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">useful_function_a</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"The result of the product A1."</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ConcreteProductA2</span>(<span class="hljs-title class_ inherited__">AbstractProductA</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">useful_function_a</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"The result of the product A2."</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">AbstractProductB</span>(<span class="hljs-title class_ inherited__">ABC</span>):
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">useful_function_b</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">another_useful_function_b</span>(<span class="hljs-params">self, collaborator</span>):
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ConcreteProductB1</span>(<span class="hljs-title class_ inherited__">AbstractProductB</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">useful_function_b</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"The result of the product B1."</span>
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">another_useful_function_b</span>(<span class="hljs-params">self, collaborator</span>):
+        <span class="hljs-keyword">return</span> <span class="hljs-string">f"The result of the B1 collaborating with <span class="hljs-subst">{collaborator.useful_function_a()}</span>"</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ConcreteProductB2</span>(<span class="hljs-title class_ inherited__">AbstractProductB</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">useful_function_b</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"The result of the product B2."</span>
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">another_useful_function_b</span>(<span class="hljs-params">self, collaborator</span>):
+        <span class="hljs-keyword">return</span> <span class="hljs-string">f"The result of the B2 collaborating with <span class="hljs-subst">{collaborator.useful_function_a()}</span>"</span>
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">client_code</span>(<span class="hljs-params">factory: AbstractFactory</span>) -&gt; <span class="hljs-literal">None</span>:
+    product_a = factory.create_product_a()
+    product_b = factory.create_product_b()
+
+    <span class="hljs-built_in">print</span>(product_b.useful_function_b())
+    <span class="hljs-built_in">print</span>(product_b.another_useful_function_b(product_a))
+
+
+client_code(ConcreteFactory1())  <span class="hljs-comment"># Output: The result of the product B1. The result of the B1 collaborating with The result of the product A1.</span>
+client_code(ConcreteFactory2())  <span class="hljs-comment"># Output: The result of the product B2. The result of the B2 collaborating with The result of the product A2.</span>
+</code></pre></div></foreignObject></g><g data-depth="4" data-path="1.38.45.46" transform="translate(1048, -4931.125)" class="markmap-node"><line x1="-1" x2="1036" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="1018" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Definition: Provides an interface for creating families of related or dependent objects without specifying their concrete classes.</div></foreignObject></g><g data-depth="4" data-path="1.38.42.44" transform="translate(1041, -5688.125)" class="markmap-node"><line x1="-1" x2="320" y1="747" y2="747" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="302" height="747"><div xmlns="http://www.w3.org/1999/xhtml">Example:<pre><code class="language-python"><span class="hljs-keyword">from</span> abc <span class="hljs-keyword">import</span> ABC, abstractmethod
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Animal</span>(<span class="hljs-title class_ inherited__">ABC</span>):
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">speak</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Dog</span>(<span class="hljs-title class_ inherited__">Animal</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">speak</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"Woof"</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Cat</span>(<span class="hljs-title class_ inherited__">Animal</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">speak</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"Meow"</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">AnimalFactory</span>(<span class="hljs-title class_ inherited__">ABC</span>):
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">create_animal</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">DogFactory</span>(<span class="hljs-title class_ inherited__">AnimalFactory</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">create_animal</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> Dog()
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">CatFactory</span>(<span class="hljs-title class_ inherited__">AnimalFactory</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">create_animal</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> Cat()
+
+dog_factory = DogFactory()
+cat_factory = CatFactory()
+
+dog = dog_factory.create_animal()
+cat = cat_factory.create_animal()
+
+<span class="hljs-built_in">print</span>(dog.speak())  <span class="hljs-comment"># Output: Woof</span>
+<span class="hljs-built_in">print</span>(cat.speak())  <span class="hljs-comment"># Output: Meow</span>
+</code></pre></div></foreignObject></g><g data-depth="4" data-path="1.38.42.43" transform="translate(1041, -5713.125)" class="markmap-node"><line x1="-1" x2="997" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="979" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Definition: Defines an interface for creating objects, but allows subclasses to alter the type of objects that will be created.</div></foreignObject></g><g data-depth="4" data-path="1.38.39.41" transform="translate(992, -5990.125)" class="markmap-node"><line x1="-1" x2="430" y1="267" y2="267" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="412" height="267"><div xmlns="http://www.w3.org/1999/xhtml">Example:<pre><code class="language-python"><span class="hljs-keyword">class</span> <span class="hljs-title class_">Singleton</span>:
+    _instance = <span class="hljs-literal">None</span>
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__new__</span>(<span class="hljs-params">cls</span>):
+        <span class="hljs-keyword">if</span> cls._instance <span class="hljs-keyword">is</span> <span class="hljs-literal">None</span>:
+            cls._instance = <span class="hljs-built_in">super</span>().__new__(cls)
+        <span class="hljs-keyword">return</span> cls._instance
+
+singleton1 = Singleton()
+singleton2 = Singleton()
+
+<span class="hljs-built_in">print</span>(singleton1 == singleton2)  <span class="hljs-comment"># Output: True</span>
+</code></pre></div></foreignObject></g><g data-depth="4" data-path="1.38.39.40" transform="translate(992, -6015.125)" class="markmap-node"><line x1="-1" x2="754" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="736" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Definition: Ensures a class has only one instance and provides a global point of access to it.</div></foreignObject></g><g data-depth="4" data-path="1.26.34.37" transform="translate(1167, -6045.125)" class="markmap-node"><line x1="-1" x2="102" y1="20" y2="20" stroke="rgb(214, 39, 40)" stroke-width="1.5" style="--darkreader-inline-stroke: #971c1c;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="84" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Scalability</div></foreignObject></g><g data-depth="4" data-path="1.26.34.36" transform="translate(1167, -6070.125)" class="markmap-node"><line x1="-1" x2="96" y1="20" y2="20" stroke="rgb(214, 39, 40)" stroke-width="1.5" style="--darkreader-inline-stroke: #971c1c;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="78" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Flexibility</div></foreignObject></g><g data-depth="4" data-path="1.26.34.35" transform="translate(1167, -6095.125)" class="markmap-node"><line x1="-1" x2="132" y1="20" y2="20" stroke="rgb(214, 39, 40)" stroke-width="1.5" style="--darkreader-inline-stroke: #971c1c;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="114" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Encapsulation</div></foreignObject></g><g data-depth="4" data-path="1.26.30.33" transform="translate(1187, -6125.125)" class="markmap-node"><line x1="-1" x2="175" y1="20" y2="20" stroke="rgb(214, 39, 40)" stroke-width="1.5" style="--darkreader-inline-stroke: #971c1c;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="157" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Behavioral Patterns</div></foreignObject></g><g data-depth="4" data-path="1.26.30.32" transform="translate(1187, -6150.125)" class="markmap-node"><line x1="-1" x2="170" y1="20" y2="20" stroke="rgb(214, 39, 40)" stroke-width="1.5" style="--darkreader-inline-stroke: #971c1c;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="152" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Structural Patterns</div></foreignObject></g><g data-depth="4" data-path="1.26.30.31" transform="translate(1187, -6175.125)" class="markmap-node"><line x1="-1" x2="172" y1="20" y2="20" stroke="rgb(214, 39, 40)" stroke-width="1.5" style="--darkreader-inline-stroke: #971c1c;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="154" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Creational Patterns</div></foreignObject></g><g data-depth="4" data-path="1.26.27.29" transform="translate(1163, -6205.125)" class="markmap-node"><line x1="-1" x2="282" y1="20" y2="20" stroke="rgb(214, 39, 40)" stroke-width="1.5" style="--darkreader-inline-stroke: #971c1c;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="264" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Cataloged by Gang of Four (GoF)</div></foreignObject></g><g data-depth="4" data-path="1.26.27.28" transform="translate(1163, -6230.125)" class="markmap-node"><line x1="-1" x2="345" y1="20" y2="20" stroke="rgb(214, 39, 40)" stroke-width="1.5" style="--darkreader-inline-stroke: #971c1c;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="327" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Reusable solutions to common problems</div></foreignObject></g><g data-depth="4" data-path="1.10.23.25" transform="translate(1129, -6867.125)" class="markmap-node"><line x1="-1" x2="530" y1="627" y2="627" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="512" height="627"><div xmlns="http://www.w3.org/1999/xhtml">Example:<pre><code class="language-python"><span class="hljs-keyword">from</span> abc <span class="hljs-keyword">import</span> ABC, abstractmethod
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">NotificationService</span>(<span class="hljs-title class_ inherited__">ABC</span>):
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">send_notification</span>(<span class="hljs-params">self, message</span>):
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">EmailNotification</span>(<span class="hljs-title class_ inherited__">NotificationService</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">send_notification</span>(<span class="hljs-params">self, message</span>):
+        <span class="hljs-built_in">print</span>(<span class="hljs-string">f"Sending email notification: <span class="hljs-subst">{message}</span>"</span>)
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">SMSNotification</span>(<span class="hljs-title class_ inherited__">NotificationService</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">send_notification</span>(<span class="hljs-params">self, message</span>):
+        <span class="hljs-built_in">print</span>(<span class="hljs-string">f"Sending SMS notification: <span class="hljs-subst">{message}</span>"</span>)
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">NotificationSender</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__init__</span>(<span class="hljs-params">self, notification_service</span>):
+        self.notification_service = notification_service
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">send_notification</span>(<span class="hljs-params">self, message</span>):
+        self.notification_service.send_notification(message)
+
+email_notification = EmailNotification()
+sms_notification = SMSNotification()
+
+email_sender = NotificationSender(email_notification)
+sms_sender = NotificationSender(sms_notification)
+
+email_sender.send_notification(<span class="hljs-string">"Meeting reminder"</span>)
+sms_sender.send_notification(<span class="hljs-string">"Payment due"</span>)
+</code></pre></div></foreignObject></g><g data-depth="4" data-path="1.10.23.24" transform="translate(1129, -6892.125)" class="markmap-node"><line x1="-1" x2="1560" y1="20" y2="20" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="1542" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Definition: High-level modules should not depend on low-level modules. Both should depend on abstractions. Abstractions should not depend on details. Details should depend on abstractions.</div></foreignObject></g><g data-depth="4" data-path="1.10.20.22" transform="translate(1120, -7549.125)" class="markmap-node"><line x1="-1" x2="421" y1="647" y2="647" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="403" height="647"><div xmlns="http://www.w3.org/1999/xhtml">Example:<pre><code class="language-python"><span class="hljs-keyword">from</span> abc <span class="hljs-keyword">import</span> ABC, abstractmethod
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Printer</span>(<span class="hljs-title class_ inherited__">ABC</span>):
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">print_document</span>(<span class="hljs-params">self, document</span>):
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Scanner</span>(<span class="hljs-title class_ inherited__">ABC</span>):
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">scan_document</span>(<span class="hljs-params">self, document</span>):
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Fax</span>(<span class="hljs-title class_ inherited__">ABC</span>):
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">fax_document</span>(<span class="hljs-params">self, document</span>):
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">AllInOne</span>(Printer, Scanner, Fax):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">print_document</span>(<span class="hljs-params">self, document</span>):
+        <span class="hljs-built_in">print</span>(<span class="hljs-string">f"Printing document: <span class="hljs-subst">{document}</span>"</span>)
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">scan_document</span>(<span class="hljs-params">self, document</span>):
+        <span class="hljs-built_in">print</span>(<span class="hljs-string">f"Scanning document: <span class="hljs-subst">{document}</span>"</span>)
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">fax_document</span>(<span class="hljs-params">self, document</span>):
+        <span class="hljs-built_in">print</span>(<span class="hljs-string">f"Faxing document: <span class="hljs-subst">{document}</span>"</span>)
+
+all_in_one = AllInOne()
+all_in_one.print_document(<span class="hljs-string">"Report"</span>)
+all_in_one.scan_document(<span class="hljs-string">"Invoice"</span>)
+all_in_one.fax_document(<span class="hljs-string">"Contract"</span>)
+</code></pre></div></foreignObject></g><g data-depth="4" data-path="1.10.20.21" transform="translate(1120, -7574.125)" class="markmap-node"><line x1="-1" x2="664" y1="20" y2="20" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="646" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Definition: Clients should not be forced to depend on interfaces they do not use.</div></foreignObject></g><g data-depth="4" data-path="1.10.17.19" transform="translate(1103, -8011.125)" class="markmap-node"><line x1="-1" x2="488" y1="427" y2="427" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="470" height="427"><div xmlns="http://www.w3.org/1999/xhtml">Example:<pre><code class="language-python"><span class="hljs-keyword">class</span> <span class="hljs-title class_">Bird</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">fly</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Sparrow</span>(<span class="hljs-title class_ inherited__">Bird</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">fly</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-built_in">print</span>(<span class="hljs-string">"Sparrow flying"</span>)
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Ostrich</span>(<span class="hljs-title class_ inherited__">Bird</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">fly</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">raise</span> NotImplementedError(<span class="hljs-string">"Ostrich cannot fly"</span>)
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">make_bird_fly</span>(<span class="hljs-params">bird</span>):
+    bird.fly()
+
+sparrow = Sparrow()
+ostrich = Ostrich()
+
+make_bird_fly(sparrow)
+make_bird_fly(ostrich)
+</code></pre></div></foreignObject></g><g data-depth="4" data-path="1.10.17.18" transform="translate(1103, -8036.125)" class="markmap-node"><line x1="-1" x2="992" y1="20" y2="20" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="974" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Definition: Objects of a superclass should be replaceable with objects of its subclasses without affecting the functionality.</div></foreignObject></g><g data-depth="4" data-path="1.10.14.16" transform="translate(1059, -8673.125)" class="markmap-node"><line x1="-1" x2="320" y1="627" y2="627" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="302" height="627"><div xmlns="http://www.w3.org/1999/xhtml">Example:<pre><code class="language-python"><span class="hljs-keyword">from</span> abc <span class="hljs-keyword">import</span> ABC, abstractmethod
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Shape</span>(<span class="hljs-title class_ inherited__">ABC</span>):
+<span class="hljs-meta">    @abstractmethod</span>
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">draw</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">pass</span>
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Circle</span>(<span class="hljs-title class_ inherited__">Shape</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">draw</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-built_in">print</span>(<span class="hljs-string">"Drawing Circle"</span>)
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Square</span>(<span class="hljs-title class_ inherited__">Shape</span>):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">draw</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-built_in">print</span>(<span class="hljs-string">"Drawing Square"</span>)
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ShapeDrawer</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__init__</span>(<span class="hljs-params">self, shape</span>):
+        self.shape = shape
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">draw_shape</span>(<span class="hljs-params">self</span>):
+        self.shape.draw()
+
+circle = Circle()
+square = Square()
+
+circle_drawer = ShapeDrawer(circle)
+square_drawer = ShapeDrawer(square)
+
+circle_drawer.draw_shape()
+square_drawer.draw_shape()
+</code></pre></div></foreignObject></g><g data-depth="4" data-path="1.10.14.15" transform="translate(1059, -8698.125)" class="markmap-node"><line x1="-1" x2="631" y1="20" y2="20" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="613" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Definition: Classes should be open for extension but closed for modification.</div></foreignObject></g><g data-depth="4" data-path="1.10.11.13" transform="translate(1119, -9095.125)" class="markmap-node"><line x1="-1" x2="631" y1="387" y2="387" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="613" height="387"><div xmlns="http://www.w3.org/1999/xhtml">Example:<pre><code class="language-python"><span class="hljs-keyword">class</span> <span class="hljs-title class_">Book</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__init__</span>(<span class="hljs-params">self, title, author</span>):
+        self.title = title
+        self.author = author
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">get_title</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> self.title
+
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">get_author</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-keyword">return</span> self.author
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Printer</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">print_book</span>(<span class="hljs-params">self, book</span>):
+        <span class="hljs-built_in">print</span>(<span class="hljs-string">f"Title: <span class="hljs-subst">{book.get_title()}</span>, Author: <span class="hljs-subst">{book.get_author()}</span>"</span>)
+
+book = Book(<span class="hljs-string">"Clean Code"</span>, <span class="hljs-string">"Robert C. Martin"</span>)
+printer = Printer()
+printer.print_book(book)
+</code></pre></div></foreignObject></g><g data-depth="4" data-path="1.10.11.12" transform="translate(1119, -9120.125)" class="markmap-node"><line x1="-1" x2="488" y1="20" y2="20" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="470" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Definition: A class should have only one reason to change.</div></foreignObject></g><g data-depth="4" data-path="1.2.6.9" transform="translate(1203, -9150.125)" class="markmap-node"><line x1="-1" x2="107" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="89" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Reusability</div></foreignObject></g><g data-depth="4" data-path="1.2.6.8" transform="translate(1203, -9175.125)" class="markmap-node"><line x1="-1" x2="117" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="99" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Extensibility</div></foreignObject></g><g data-depth="4" data-path="1.2.6.7" transform="translate(1203, -9200.125)" class="markmap-node"><line x1="-1" x2="137" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="119" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Maintainability</div></foreignObject></g><g data-depth="4" data-path="1.2.3.5" transform="translate(1172, -9230.125)" class="markmap-node"><line x1="-1" x2="266" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="248" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Introduced by Robert C. Martin</div></foreignObject></g><g data-depth="4" data-path="1.2.3.4" transform="translate(1172, -9255.125)" class="markmap-node"><line x1="-1" x2="394" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="376" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Five principles of object-oriented programming</div></foreignObject></g><g data-depth="3" data-path="1.101.104" transform="translate(692, 9213.875)" class="markmap-node"><line x1="-1" x2="344" y1="20" y2="20" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #553375;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="326" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Share Knowledge and Learn from Others</div></foreignObject></g><g data-depth="3" data-path="1.101.103" transform="translate(692, 9188.875)" class="markmap-node"><line x1="-1" x2="348" y1="20" y2="20" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #553375;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="330" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Continuously Refactor and Improve Code</div></foreignObject></g><g data-depth="3" data-path="1.101.102" transform="translate(692, 9163.875)" class="markmap-node"><line x1="-1" x2="501" y1="20" y2="20" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #553375;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="483" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Practice Implementing SOLID Principles and Design Patterns</div></foreignObject></g><g data-depth="3" data-path="1.95.100" transform="translate(686, 9133.875)" class="markmap-node"><line x1="-1" x2="310" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="292" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Community Forums and Discussions</div></foreignObject></g><g data-depth="3" data-path="1.95.99" transform="translate(686, 9108.875)" class="markmap-node"><line x1="-1" x2="319" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="301" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Code Examples and Implementations</div></foreignObject></g><g data-depth="3" data-path="1.95.98" transform="translate(686, 9083.875)" class="markmap-node"><line x1="-1" x2="211" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="193" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Design Pattern Catalogs</div></foreignObject></g><g data-depth="3" data-path="1.95.97" transform="translate(686, 9058.875)" class="markmap-node"><line x1="-1" x2="248" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="230" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Online Courses and Tutorials</div></foreignObject></g><g data-depth="3" data-path="1.95.96" transform="translate(686, 9033.875)" class="markmap-node"><line x1="-1" x2="393" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="375" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Books on SOLID Principles and Design Patterns</div></foreignObject></g><g data-depth="3" data-path="1.89.94" transform="translate(876, 9003.875)" class="markmap-node"><line x1="-1" x2="161" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="143" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Testing Strategies</div></foreignObject></g><g data-depth="3" data-path="1.89.93" transform="translate(876, 8978.875)" class="markmap-node"><line x1="-1" x2="218" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="200" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Refactoring Legacy Code</div></foreignObject></g><g data-depth="3" data-path="1.89.92" transform="translate(876, 8953.875)" class="markmap-node"><line x1="-1" x2="203" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="185" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Trade-offs and Caveats</div></foreignObject></g><g data-depth="3" data-path="1.89.91" transform="translate(876, 8928.875)" class="markmap-node"><line x1="-1" x2="293" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="275" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Choosing the Right Design Pattern</div></foreignObject></g><g data-depth="3" data-path="1.89.90" transform="translate(876, 8903.875)" class="markmap-node"><line x1="-1" x2="272" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="254" height="20"><div xmlns="http://www.w3.org/1999/xhtml">When to Apply SOLID Principles</div></foreignObject></g><g data-depth="3" data-path="1.73.87" transform="translate(760, 8260.375)" class="markmap-node"><line x1="-1" x2="220" y1="20" y2="20" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="218" cy="20" r="6" stroke="rgb(140, 86, 75)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #b9867c;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="202" height="20"><div xmlns="http://www.w3.org/1999/xhtml">
+<p data-lines="910,911">Template Method Pattern</p></div></foreignObject></g><g data-depth="3" data-path="1.73.85" transform="translate(760, 7183.375)" class="markmap-node"><line x1="-1" x2="124" y1="20" y2="20" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="122" cy="20" r="6" stroke="rgb(140, 86, 75)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #b9867c;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="106" height="20"><div xmlns="http://www.w3.org/1999/xhtml">
+<p data-lines="862,863">State Pattern</p></div></foreignObject></g><g data-depth="3" data-path="1.73.83" transform="translate(760, 6366.375)" class="markmap-node"><line x1="-1" x2="164" y1="20" y2="20" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="162" cy="20" r="6" stroke="rgb(140, 86, 75)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #b9867c;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="146" height="20"><div xmlns="http://www.w3.org/1999/xhtml">
+<p data-lines="823,824">Command Pattern</p></div></foreignObject></g><g data-depth="3" data-path="1.73.80" transform="translate(760, 5496.875)" class="markmap-node"><line x1="-1" x2="264" y1="20" y2="20" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="262" cy="20" r="6" stroke="rgb(140, 86, 75)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #b9867c;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="246" height="20"><div xmlns="http://www.w3.org/1999/xhtml">
+<p data-lines="770,771">Chain of Responsibility Pattern</p></div></foreignObject></g><g data-depth="3" data-path="1.73.77" transform="translate(760, 4674.875)" class="markmap-node"><line x1="-1" x2="150" y1="20" y2="20" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="148" cy="20" r="6" stroke="rgb(140, 86, 75)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #b9867c;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="132" height="20"><div xmlns="http://www.w3.org/1999/xhtml">
+<p data-lines="735,736">Strategy Pattern</p></div></foreignObject></g><g data-depth="3" data-path="1.73.74" transform="translate(760, 3932.875)" class="markmap-node"><line x1="-1" x2="156" y1="20" y2="20" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="154" cy="20" r="6" stroke="rgb(140, 86, 75)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #b9867c;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="138" height="20"><div xmlns="http://www.w3.org/1999/xhtml">
+<p data-lines="690,691">Observer Pattern</p></div></foreignObject></g><g data-depth="3" data-path="1.54.70" transform="translate(755, 3140.875)" class="markmap-node"><line x1="-1" x2="126" y1="20" y2="20" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #553375;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="124" cy="20" r="6" stroke="rgb(148, 103, 189)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="108" height="20"><div xmlns="http://www.w3.org/1999/xhtml">
+<p data-lines="648,649">Proxy Pattern</p></div></foreignObject></g><g data-depth="3" data-path="1.54.67" transform="translate(755, 2368.875)" class="markmap-node"><line x1="-1" x2="138" y1="20" y2="20" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #553375;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="136" cy="20" r="6" stroke="rgb(148, 103, 189)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="120" height="20"><div xmlns="http://www.w3.org/1999/xhtml">
+<p data-lines="605,606">Facade Pattern</p></div></foreignObject></g><g data-depth="3" data-path="1.54.64" transform="translate(755, 1556.875)" class="markmap-node"><line x1="-1" x2="162" y1="20" y2="20" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #553375;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="160" cy="20" r="6" stroke="rgb(148, 103, 189)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="144" height="20"><div xmlns="http://www.w3.org/1999/xhtml">
+<p data-lines="561,562">Decorator Pattern</p></div></foreignObject></g><g data-depth="3" data-path="1.54.61" transform="translate(755, 574.875)" class="markmap-node"><line x1="-1" x2="167" y1="20" y2="20" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #553375;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="165" cy="20" r="6" stroke="rgb(148, 103, 189)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="149" height="20"><div xmlns="http://www.w3.org/1999/xhtml">
+<p data-lines="501,502">Composite Pattern</p></div></foreignObject></g><g data-depth="3" data-path="1.54.58" transform="translate(755, -417.125)" class="markmap-node"><line x1="-1" x2="133" y1="20" y2="20" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #553375;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="131" cy="20" r="6" stroke="rgb(148, 103, 189)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="115" height="20"><div xmlns="http://www.w3.org/1999/xhtml">
+<p data-lines="457,458">Bridge Pattern</p></div></foreignObject></g><g data-depth="3" data-path="1.54.55" transform="translate(755, -1089.125)" class="markmap-node"><line x1="-1" x2="146" y1="20" y2="20" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #553375;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="144" cy="20" r="6" stroke="rgb(148, 103, 189)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="128" height="20"><div xmlns="http://www.w3.org/1999/xhtml">
+<p data-lines="429,430">Adapter Pattern</p></div></foreignObject></g><g data-depth="3" data-path="1.38.51" transform="translate(757, -1711.125)" class="markmap-node"><line x1="-1" x2="159" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="157" cy="20" r="6" stroke="rgb(255, 127, 14)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="141" height="20"><div xmlns="http://www.w3.org/1999/xhtml">
+<p data-lines="388,389">Prototype Pattern</p></div></foreignObject></g><g data-depth="3" data-path="1.38.48" transform="translate(757, -2773.125)" class="markmap-node"><line x1="-1" x2="138" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="136" cy="20" r="6" stroke="rgb(255, 127, 14)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="120" height="20"><div xmlns="http://www.w3.org/1999/xhtml">
+<p data-lines="317,318">Builder Pattern</p></div></foreignObject></g><g data-depth="3" data-path="1.38.45" transform="translate(757, -4205.125)" class="markmap-node"><line x1="-1" x2="213" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="211" cy="20" r="6" stroke="rgb(255, 127, 14)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="195" height="20"><div xmlns="http://www.w3.org/1999/xhtml">
+<p data-lines="240,241">Abstract Factory Pattern</p></div></foreignObject></g><g data-depth="3" data-path="1.38.42" transform="translate(757, -5337.125)" class="markmap-node"><line x1="-1" x2="206" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="204" cy="20" r="6" stroke="rgb(255, 127, 14)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="188" height="20"><div xmlns="http://www.w3.org/1999/xhtml">
+<p data-lines="199,200">Factory Method Pattern</p></div></foreignObject></g><g data-depth="3" data-path="1.38.39" transform="translate(757, -5879.125)" class="markmap-node"><line x1="-1" x2="157" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="155" cy="20" r="6" stroke="rgb(255, 127, 14)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="139" height="20"><div xmlns="http://www.w3.org/1999/xhtml">
+<p data-lines="182,183">Singleton Pattern</p></div></foreignObject></g><g data-depth="3" data-path="1.26.34" transform="translate(853, -6070.125)" class="markmap-node"><line x1="-1" x2="236" y1="20" y2="20" stroke="rgb(214, 39, 40)" stroke-width="1.5" style="--darkreader-inline-stroke: #971c1c;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="234" cy="20" r="6" stroke="rgb(214, 39, 40)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #dc3e3f;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="218" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Benefits of Design Patterns</div></foreignObject></g><g data-depth="3" data-path="1.26.30" transform="translate(853, -6150.125)" class="markmap-node"><line x1="-1" x2="256" y1="20" y2="20" stroke="rgb(214, 39, 40)" stroke-width="1.5" style="--darkreader-inline-stroke: #971c1c;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="254" cy="20" r="6" stroke="rgb(214, 39, 40)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #dc3e3f;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="238" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Categories of Design Patterns</div></foreignObject></g><g data-depth="3" data-path="1.26.27" transform="translate(853, -6217.625)" class="markmap-node"><line x1="-1" x2="232" y1="20" y2="20" stroke="rgb(214, 39, 40)" stroke-width="1.5" style="--darkreader-inline-stroke: #971c1c;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="230" cy="20" r="6" stroke="rgb(214, 39, 40)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #dc3e3f;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="214" height="20"><div xmlns="http://www.w3.org/1999/xhtml">What are Design Patterns?</div></foreignObject></g><g data-depth="3" data-path="1.10.23" transform="translate(735, -6576.125)" class="markmap-node"><line x1="-1" x2="316" y1="20" y2="20" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="314" cy="20" r="6" stroke="rgb(140, 86, 75)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #b9867c;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="298" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Dependency Inversion Principle (DIP)</div></foreignObject></g><g data-depth="3" data-path="1.10.20" transform="translate(735, -7248.125)" class="markmap-node"><line x1="-1" x2="307" y1="20" y2="20" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="305" cy="20" r="6" stroke="rgb(140, 86, 75)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #b9867c;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="289" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Interface Segregation Principle (ISP)</div></foreignObject></g><g data-depth="3" data-path="1.10.17" transform="translate(735, -7820.125)" class="markmap-node"><line x1="-1" x2="290" y1="20" y2="20" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="288" cy="20" r="6" stroke="rgb(140, 86, 75)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #b9867c;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="272" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Liskov Substitution Principle (LSP)</div></foreignObject></g><g data-depth="3" data-path="1.10.14" transform="translate(735, -8382.125)" class="markmap-node"><line x1="-1" x2="246" y1="20" y2="20" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="244" cy="20" r="6" stroke="rgb(140, 86, 75)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #b9867c;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="228" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Open/Closed Principle (OCP)</div></foreignObject></g><g data-depth="3" data-path="1.10.11" transform="translate(735, -8924.125)" class="markmap-node"><line x1="-1" x2="306" y1="20" y2="20" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="304" cy="20" r="6" stroke="rgb(140, 86, 75)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #b9867c;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="288" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Single Responsibility Principle (SRP)</div></foreignObject></g><g data-depth="3" data-path="1.2.6" transform="translate(858, -9175.125)" class="markmap-node"><line x1="-1" x2="267" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="265" cy="20" r="6" stroke="rgb(255, 127, 14)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="249" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Importance of SOLID Principles</div></foreignObject></g><g data-depth="3" data-path="1.2.3" transform="translate(858, -9242.625)" class="markmap-node"><line x1="-1" x2="236" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="234" cy="20" r="6" stroke="rgb(255, 127, 14)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="218" height="20"><div xmlns="http://www.w3.org/1999/xhtml">What are SOLID Principles?</div></foreignObject></g><g data-depth="2" data-path="1.101" transform="translate(507, 9188.875)" class="markmap-node"><line x1="-1" x2="107" y1="20" y2="20" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #553375;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="105" cy="20" r="6" stroke="rgb(148, 103, 189)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="89" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Conclusion</div></foreignObject></g><g data-depth="2" data-path="1.95" transform="translate(507, 9083.875)" class="markmap-node"><line x1="-1" x2="101" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="99" cy="20" r="6" stroke="rgb(255, 127, 14)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="83" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Resources</div></foreignObject></g><g data-depth="2" data-path="1.89" transform="translate(507, 8953.875)" class="markmap-node"><line x1="-1" x2="291" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="289" cy="20" r="6" stroke="rgb(255, 127, 14)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="273" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Best Practices and Considerations</div></foreignObject></g><g data-depth="2" data-path="1.73" transform="translate(507, 6096.625)" class="markmap-node"><line x1="-1" x2="175" y1="20" y2="20" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="173" cy="20" r="6" stroke="rgb(140, 86, 75)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #b9867c;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="157" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Behavioral Patterns</div></foreignObject></g><g data-depth="2" data-path="1.54" transform="translate(507, 1025.875)" class="markmap-node"><line x1="-1" x2="170" y1="20" y2="20" stroke="rgb(148, 103, 189)" stroke-width="1.5" style="--darkreader-inline-stroke: #553375;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="168" cy="20" r="6" stroke="rgb(148, 103, 189)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #9b71c1;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="152" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Structural Patterns</div></foreignObject></g><g data-depth="2" data-path="1.38" transform="translate(507, -3795.125)" class="markmap-node"><line x1="-1" x2="172" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="170" cy="20" r="6" stroke="rgb(255, 127, 14)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="154" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Creational Patterns</div></foreignObject></g><g data-depth="2" data-path="1.26" transform="translate(507, -6143.875)" class="markmap-node"><line x1="-1" x2="268" y1="20" y2="20" stroke="rgb(214, 39, 40)" stroke-width="1.5" style="--darkreader-inline-stroke: #971c1c;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="266" cy="20" r="6" stroke="rgb(214, 39, 40)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #dc3e3f;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="250" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Introduction to Design Patterns</div></foreignObject></g><g data-depth="2" data-path="1.10" transform="translate(507, -7750.125)" class="markmap-node"><line x1="-1" x2="150" y1="20" y2="20" stroke="rgb(140, 86, 75)" stroke-width="1.5" style="--darkreader-inline-stroke: #7c4c42;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="148" cy="20" r="6" stroke="rgb(140, 86, 75)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #b9867c;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="132" height="20"><div xmlns="http://www.w3.org/1999/xhtml">SOLID Principles</div></foreignObject></g><g data-depth="2" data-path="1.2" transform="translate(507, -9208.875)" class="markmap-node"><line x1="-1" x2="273" y1="20" y2="20" stroke="rgb(255, 127, 14)" stroke-width="1.5" style="--darkreader-inline-stroke: #ae5200;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="271" cy="20" r="6" stroke="rgb(255, 127, 14)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #ff8a23;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="255" height="20"><div xmlns="http://www.w3.org/1999/xhtml">Introduction to SOLID Principles</div></foreignObject></g><g data-depth="1" data-path="1" transform="translate(0,-10)" class="markmap-node"><line x1="-1" x2="429" y1="20" y2="20" stroke="rgb(31, 119, 180)" stroke-width="2" style="--darkreader-inline-stroke: #1c6ca4;" data-darkreader-inline-stroke=""></line><circle stroke-width="1.5" cx="427" cy="20" r="6" stroke="rgb(31, 119, 180)" fill="var(--markmap-circle-open-bg)" style="--darkreader-inline-fill: var(--darkreader-text--markmap-circle-open-bg, #e8e6e3); --darkreader-inline-stroke: #55a8e2;" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="411" height="20"><div xmlns="http://www.w3.org/1999/xhtml">SOLID Principles and Design Patterns Learning Map</div></foreignObject></g></g></svg>
